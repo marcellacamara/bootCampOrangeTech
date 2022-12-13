@@ -1,3 +1,3 @@
-# Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto do BootCamp Orange Tech+ da DIO
 
-Repositório do Desafio de Projeto sobre Git/GitHub da DIO
+Repositório de Projeto do BootCamp Orange Tech+ da DIO
