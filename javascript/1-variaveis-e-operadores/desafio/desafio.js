@@ -1,10 +1,12 @@
-/*Faça um programa para calcular o valor de uma viagem.
+/*
+Faça um programa para calcular o valor de uma viagem.
 Você terá 3 variáveis. Sendo elas:
 1 - preço do combustível;
 2 - gasto médio de combustível do carro por km;
 3 - distância em km da viagem;
 
-Imprima no console o valor que será gasto de combustível para realizar esta viagem.*/
+Imprima no console o valor que será gasto de combustível para realizar esta viagem.
+*/
 
 //preço do combustível (gasolina):
 const precoCombustivel = 5.03;
