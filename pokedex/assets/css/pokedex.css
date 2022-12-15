@@ -78,6 +78,11 @@
 	border-radius: 1rem;
 }
 
+.pokemon:hover {
+	opacity: 75%;
+	transform: translate3d(0, -5px, 0);
+}
+
 .pokemon .number {
 	color: #000;
   opacity: .3;
@@ -130,13 +135,18 @@
 
 .pagination button {
 	color: #fff;
-	background-color: #6c79db;
+	background-color: #fccfb3;
 	padding: .75rem;
 	margin: .25rem 0;
 	border: none;
 	border-radius: 1rem;
 	font-size: .90rem;
 	cursor: pointer;
+}
+
+.pagination button:hover {
+	opacity: 75%;
+	transform: translate3d(0, -5px, 0);
 }
 
 @media screen and (min-width: 380px){

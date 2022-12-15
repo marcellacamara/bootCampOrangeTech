@@ -4,7 +4,19 @@
 }
 
 body {
-	background-color: #f6f8fc;
+	background-color: #FFFEF2;
+}
+
+header {
+  width: 100vw;
+  height: 2.5rem;
+  background-color: #fccfb3;
+}
+
+.img-content img {
+  width: 100vw;
+  height: 25rem;
+  object-fit: fill;
 }
 
 .content{
